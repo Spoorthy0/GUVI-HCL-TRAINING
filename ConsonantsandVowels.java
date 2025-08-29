@@ -17,8 +17,6 @@ public class ConsonantsandVowels {
             else if(ch>='a' && ch<='z'){
                 consonants++;
             }
-
-
         }
         System.out.print("Vowels count : "+vowels+" Consonants count : "+consonants);
     }

@@ -43,7 +43,7 @@ public class AnagramString {
          }
 
         return true;
+        }
     }
-}
 }
 
