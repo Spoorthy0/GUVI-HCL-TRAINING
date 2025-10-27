@@ -32,8 +32,6 @@ public class Car {
        Cars c4=new Cars();
        System.out.println(c1.getWheels());
 
-       
-
    }
     
 }
